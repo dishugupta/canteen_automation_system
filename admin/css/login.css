@@ -1,0 +1,35 @@
+#div_login
+{
+	
+	
+	box-shadow:5px 5px 2px 3px gray;
+	/*width:50%;
+	*/
+	border-radius: 10px 50px;
+	padding:50px 30px;
+	
+	background-color: rgba(158,168,180,0.6);
+	margin:10% 20%;
+	height:auto;
+	text-shadow:1px 1px 1px;
+	
+	
+}
+#div_login a
+{
+	
+	font-size:20px;
+	color: #2178d9;
+	text-shadow: 0 1px 0 #000;
+	
+}
+#login_body
+{
+	
+	box-shadow:inset 0 0 150px #000000;
+	height:100%;
+}
+.error
+{
+	color:red;
+}

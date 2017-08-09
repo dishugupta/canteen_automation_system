@@ -1,0 +1,39 @@
+.header
+{
+    font-size:4em;
+	text-align:center;
+	font-family:Monotype Corsiva;
+	//height:20%;
+}
+.image
+{
+	
+	//background:url('../image/center.jpg')no-repeat;
+	background-attachment:fixed;
+	color:rgba(255,255,255,1);
+	
+}
+
+
+#div_main
+{
+	text-shadow:1px 1px 1px;
+	opacity:1;
+}
+
+#background_div
+{
+	//background-color:black; z-index:9;
+	//border:2px solid red;
+	opacity:0.8;
+}
+#background_div .form-control
+{
+	background-color:#fff;
+	opacity:0.8;
+}
+#background_div .form-control:focus
+{
+	color:white;
+	background-color:black;
+}

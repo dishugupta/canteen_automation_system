@@ -1,0 +1,163 @@
+.logo
+{
+	height:20%;
+	background-color:rgb(201,201,201);
+}
+#three
+{
+	font-size:70px;
+}
+.theme1
+{
+	color:#C80000;
+}
+.theme2
+{
+		color:rgb(5,105,58);
+}
+.theme3
+{
+	background-color:rgb(201,201,201);
+}
+#nev_main 
+{
+	background-color:rgb(5,105,58);
+	border-color:rgb(5,105,58);
+}
+#nev_main a
+{
+	font-family:times new romame;
+	font-size:20px;
+	color:rgb(255,255,255);
+	background-color:rgb(5,105,58);
+	border-color:rgb(5,105,58);
+}
+#nev_main a:hover
+{
+	background-color:#C80000;
+}
+.theme1:hover
+{
+	color:rgb(5,105,58);
+}
+#nev_main_menu1 
+{
+	background-color:rgb(5,105,58);
+}
+#nev_account_menu1 
+{
+	background-color:rgb(5,105,58);
+}
+.loginform
+{
+	height:70%;
+	background:url('../image/userloginbg.jpg');
+	background-attachment:fixed;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	box-shadow:0 0 10px blue;
+}
+.d2
+{
+	width:30%;
+	position:relative;
+	top:120px;
+	left:70px;
+}
+.footer
+{
+	background-color:rgb(5,105,58);
+}
+.footer_title
+{
+	text-align:center;
+	font-family:times new roman;
+	font-size:3em;
+	color:rgb(255,255,255);
+	color:#C80000;
+}
+.copyright_text
+{
+	text-align:center;
+	font-family:times new roman;
+	font-size:1.5em;
+	color:rgb(255,255,255);
+	//color:#fff;
+}
+div.slider .bx-viewport
+{
+	height:auto !important;
+	width:100% !important;
+	margin:0px !important;
+	padding:0px !important;
+}
+.bx-wrapper
+{
+	height:auto !important;
+	width:100% !important;
+	margin:0px !important;
+	padding:0px !important;
+}
+
+@media(min-width:290px){
+	.menustone
+	{
+		font-size:2em;
+	}
+	.menustone:hover
+	{
+		font-size:2.2em;
+	}
+}
+@media(min-width:768px){
+	.menustone
+	{
+		font-size:3em;
+	}
+	.menustone:hover
+	{
+		font-size:3.3em;
+	}
+}
+@media(min-width:1280px){
+	.menustone
+	{
+		font-size:4em;
+	}
+	.menustone:hover
+	{
+		font-size:4.4em;
+	}
+}
+.menustone
+{
+	//width:95%;
+	margin:3%;
+	padding:20%;
+	border:1px solid black;
+	text-align:center;
+	font-family:Monotype Corsiva;
+	background-color:black;
+	border-radius:15px;
+	color:black;
+	
+	
+}
+.menustone:hover
+{
+	//width:95%;
+	margin:2%;
+	padding:20%;
+	border:1px solid black;
+	text-align:center;
+	font-family:Monotype Corsiva;
+	transition:.5s;	
+	background-color:#000;
+	box-shadow:0px 0px 5px 5px #000;
+	text-decoration:none;
+	
+}
+.menustonelink:hover
+{
+	text-decoration:none !important;
+}

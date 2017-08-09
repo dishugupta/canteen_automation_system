@@ -1,0 +1,22 @@
+#navbaar 
+{
+	text-shadow:1px 1px 1px;
+
+}
+
+#navbaar a 
+{
+	color:white;
+
+}
+
+#navbaar a:hover 
+{
+	font-size:15;
+
+}
+
+#dropdown_nevmenu a
+{
+	color:black;
+}

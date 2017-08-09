@@ -1,0 +1,119 @@
+label
+{
+	color:rgb(0,102,54);
+	//color:#c80000;
+}
+.regform
+{
+	background:url('../image/user ragi3.jpg');
+	background-attachment:fixed;
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+	box-shadow:0 0 10px blue;
+}
+#submitbtn
+{
+	background-color:rgb(0,102,54);
+	width:150px
+}
+#canceltbtn
+{
+	width:150px
+}
+h1
+{
+	color:rgb(0,102,54);
+}
+.address
+{
+	width:83%;
+	background-color:rgba(255,255,255,.10);
+	//opacity:0.15;
+	color:rgb(0,0,0);
+	box-shadow:0 0 5px green;
+	margin-bottom:5px;
+}
+.address:hover
+{
+	box-shadow:0 0 5px red;
+}
+.address:focus
+{
+	color:white;
+	background-color:black;
+}
+input[type="text"]
+{
+	box-shadow:0 0 5px green;
+	background-color:rgba(255,255,255,.10);
+	color:rgb(0,0,0);
+	width:83%;
+	margin-bottom:5px;
+}
+input[type="password"]
+{
+	background-color:rgba(255,255,255,.10);
+	color:rgb(0,0,0);
+	width:83%;
+	box-shadow:0 0 5px green;
+	margin-bottom:5px;
+}
+input[type="text"]:hover
+{	
+	box-shadow:0 0 5px red;
+}
+input[type="password"]:hover
+{
+	box-shadow:0 0 5px red;
+}
+input[type="text"]:focus
+{
+	color:white;
+	background-color:black;
+}
+input[type="password"]:focus
+{
+	color:white;
+	background-color:black;
+}
+.form-control
+{
+	box-shadow:0 0 5px green;
+	background-color:rgba(255,255,255,.10);
+	color:rgb(0,0,0);
+	width:83%;
+	margin-bottom:5px;
+	font-size:18px;
+}
+.form-control:hover
+{
+	box-shadow:0 0 5px red;
+}
+.form-control:focus
+{
+	color:white;
+	background-color:black;
+}
+select.form-control option
+{
+	color:white;
+	background-color:black;
+}
+h1
+{
+	color:#c80000;
+}
+#img1
+{
+	color:#c80000;
+}
+span
+{
+	color:#c80000;
+}
+.profilepic
+{
+	border:3px solid #abc;
+	border-radius:10px;
+	margin:5%;
+}

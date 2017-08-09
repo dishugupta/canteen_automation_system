@@ -1,0 +1,33 @@
+#signup_body
+{
+	
+	box-shadow: 15px 15px 80px rgba(0,0,0,1) inset;
+	height:auto;
+}
+#div_registration
+{
+	
+	box-shadow:5px 5px 2px 6px gray;
+	width:60%;
+	
+	margin:10% 20%;
+	height:auto;
+	
+	border-radius: 10px 50px;
+	padding:50px 50px;
+	
+	background-color: rgba(158,168,180,0.6);
+	
+	text-shadow:1px 1px 1px;
+}
+#div_registration span
+{
+	color:red;
+}
+.colum
+{
+	padding:10px;
+}
+
+
+

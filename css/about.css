@@ -1,0 +1,19 @@
+.about
+{
+	margin-top:1%;
+	height:20%;
+	text-align:center;
+}
+.image
+{
+	text-align:justify;
+	margin-bottom:1%;
+}
+#div_about
+{
+	background-color:white;
+	color:#000;
+	-webkit-box-shadow: 0 8px 6px -6px black;
+    -moz-box-shadow: 0 8px 6px -6px black;
+    box-shadow: 0 8px 6px -6px black;
+}
